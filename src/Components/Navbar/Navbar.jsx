@@ -1,7 +1,7 @@
 import React, { useState, useRef, useContext } from 'react';
 import { ThemeContext } from '../../ContextProvider/ThemeContext';
 import styles from './Navbar.module.css';
-import NameLogo from '../../assets/reeteshNameLogo.png'
+import NameLogo from '../../assets/logo.png'
 
 const barStyle = {
 	bar1: {

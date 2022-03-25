@@ -75,15 +75,15 @@ const Home = ({ scrollRef }) => {
 							className={styles.name}
 							style={{ color: `${newTheme.title}` }}
 						>
-							Reetesh Meena.
+					  Kyatham Sagar
 						</div>
 					</h1>
 					<h1>
-						I am a Full Stack Developer 
+						I am a Full Stack Web Developer 
 					</h1>
 					<div className={styles.btn}>
 						<a
-							href='https://github.com/reeteshin/reeteshin/blob/main/My%20Resume.pdf'
+							href='https://github.com/sagarkyatham/SagarResume/blob/main/Sagar_Resume%20(2)%20(1).pdf'
 							target='blank'
 						>
 							<Button
@@ -109,7 +109,7 @@ const Home = ({ scrollRef }) => {
 					className={styles.profileImage}
 				>
 					<img
-						src='https://avatars.githubusercontent.com/u/37933301?v=4'
+						src='https://github.com/sagarkyatham/Images/blob/main/WhatsApp%20Image%202022-03-25%20at%2010.24.57%20AM-cropped.png?raw=true"'
 						alt='Profile pic'
 					/>
 				</div>

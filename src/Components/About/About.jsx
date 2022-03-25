@@ -8,15 +8,15 @@ const About = () => {
 	const [width] = WindowSize();
 	const img =
 		width < 650
-			? 'https://github.com/himrd95/me_Himanshu/blob/main/src/assets/profile_pic_without_background.png?raw=true'
-			: 'https://github.com/himrd95/portfolio/blob/main/public/developer.gif?raw=true';
+			? 'https://github.com/sagarkyatham/Images/blob/main/WhatsApp%20Image%202022-03-25%20at%2010.24.57%20AM-cropped.png?raw=true'
+			: 'https://github.com/sagarkyatham/Images/blob/main/WhatsApp%20Image%202022-03-25%20at%2010.24.57%20AM-cropped.png?raw=true"';
 	return (
 		<div
 			className={styles.container}
 			style={{ boxShadow: `3px 3px 5px ${newTheme.line}` }}
 		>
 			<div className={styles.first}>
-				<img src={"https://github.com/himrd95/portfolio/blob/main/public/developer.gif?raw=true"} alt='' />
+				<img src={"https://github.com/sagarkyatham/Images/blob/main/WhatsApp%20Image%202022-03-25%20at%2010.24.57%20AM-cropped.png?raw=true"} alt='' />
 			</div>
 			<div className={styles.second}>
 				<h1

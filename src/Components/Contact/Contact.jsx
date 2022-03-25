@@ -24,7 +24,7 @@ const Contact = () => {
 					className={styles.contactOptions}
 				>
 					<a
-						href='tel:7509815939'
+						href='tel:7731090174'
 						aria-label='GitHub'
 						rel='noreferrer'
 						target='_blank'
@@ -32,7 +32,7 @@ const Contact = () => {
 						<i className='fas fa-phone-alt' />
 					</a>
 					<a
-						href='mailto: reeteshmeena@gmail.com'
+						href='mailto: sagarkya96@gmail.com'
 						aria-label='email'
 						target='_blank'
 						rel='noreferrer'
@@ -40,7 +40,7 @@ const Contact = () => {
 						<i className='far fa-envelope'></i>
 					</a>
 					<a
-						href='https://twitter.com/reetesh75'
+						href='https://twitter.com/sagarkyatham96'
 						aria-label='Twitter'
 						target='_blank'
 						rel='noreferrer'
@@ -48,7 +48,7 @@ const Contact = () => {
 						<i className='fab fa-twitter'></i>
 					</a>
 					<a
-						href='https://github.com/reeteshin'
+						href='https://github.com/sagarkyatham'
 						aria-label='GitHub'
 						rel='noreferrer'
 						target='_blank'
@@ -57,7 +57,7 @@ const Contact = () => {
 					</a>
 
 					<a
-						href='https://www.linkedin.com/in/reeteshmeena/'
+						href='https://www.linkedin.com/in/sagar-k-911469170/'
 						aria-label='Linkedin'
 						target='_blank'
 						rel='noreferrer'
